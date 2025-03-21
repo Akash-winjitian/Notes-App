@@ -1,0 +1,7 @@
+node_modules/
+logs/
+.vite/
+.env
+package-lock.json
+vite.config.js
+.DS_Store
